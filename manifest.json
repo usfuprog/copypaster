@@ -1,0 +1,17 @@
+{
+
+  "description": "Toolbar buttons",
+  "manifest_version": 2,
+  "name": "html copypaster",
+  "version": "1.0",
+
+  
+"content_scripts": [
+    {
+      "matches": ["<all_urls>"], 
+      "js": ["go_script.js", "settings.js"]
+    }
+  ]  
+
+  
+}
