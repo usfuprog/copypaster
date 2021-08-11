@@ -26,7 +26,7 @@ function pasteValues()
 {
     console.log("paste");
     
-    var string_val = document.execCommand("paste");
+//    var string_val = document.execCommand("paste");
     
     var textarea = 
     document.createElement("textarea");

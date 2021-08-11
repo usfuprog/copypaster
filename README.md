@@ -1,12 +1,15 @@
 Copypaster
 
-—корпированный в буфер обмена текст, скрипт ставит в инпутные пол€ на веб странице. ѕроставить id инпутных полей формы можно в файле settings.js.
- 
+Press ctrl + v and copied text in buffer will be in input field of the form. Set the id of input field is possible in file settings.js. 
 
- 
-Х Ќе работает в private mode Firefox
+
+
+
+
+Х Load manifest.js from copypaste folder. 
 
 Х about:debbuging   ->   This Firefox    ->    Load Temporary add-on
 
-Х «агрузка manifest.js из папки copypaster
+Х Not work in Firefox private mode.
+
 
